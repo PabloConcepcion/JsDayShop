@@ -1,0 +1,98 @@
+[
+    {
+        "Description": "\n\n\nCamiseta oficial del juego Brawl Stars",
+        "Images": "https://ae01.alicdn.com/kf/H7d5d89d1d3fc4dad9bdb5b4be6793f82n/Shark-Leon-3d-Camiseta-de-manga-corta-para-ni-os-y-ni-as-ropa-bonita-para.jpg_350x350.jpg",
+        "Price": "12",
+        "Id": "2mJfLubJbcX1LcoJJiLZ",
+        "Category": "Vestimenta",
+        "Name": "Camiseta Brawl Stars"
+    },
+    {
+        "Description": "Fantástica camisa de Brawl Stars",
+        "Price": "20€",
+        "Category": "Vestimenta",
+        "Images": "https://ae01.alicdn.com/kf/H373cb31890554e7cb16eb37276845f1cR/Camiseta-infantil-3D-Brawl-Stars-Leon.jpg_Q90.jpg",
+        "Id": "4ZsaiCDSLKFYVeNp3u8f",
+        "Name": "Camiseta de Brawl Stars"
+    },
+    {
+        "Images": "https://www.lidl.es/media/product/0/0/3/1/9/2/7/caja-de-herramientas-de-acero-zoom.jpg",
+        "Description": "Caja de herramientas de acero con 4 bandejas extraíbles de deslizamiento suave y un cajón en la parte inferior.",
+        "Name": "Caja de herramientas de acero",
+        "Category": "Herramientas",
+        "Id": "B6VohZQjvYlruKttf0Y3",
+        "Price": "30€"
+    },
+    {
+        "Category": "Mueble",
+        "Description": "Super silla",
+        "Images": "https://www.sddistribuciones.com/Portadas/KOTKTOMK258.JPG",
+        "Name": "Silla invisible",
+        "Id": "C0V1hkfWTYjyL24Gwfjk",
+        "Price": "10€"
+    },
+    {
+        "Images": "https://i.pinimg.com/736x/4f/cf/aa/4fcfaa2f38964ef555ba07dfe47e387b.jpg",
+        "Price": "40€",
+        "Name": "Peluche de KK",
+        "Category": "Peluches",
+        "Description": "¡La deposición más valiosa del internet puede ser tuya por un módico precio!. Cumple tu sueño de dormir cómodamente sobre una gran pieza de... bueno, ya tu sabes",
+        "Id": "M3kxiteSjMthm5T1i762"
+    },
+    {
+        "Name": "Máquina de coser Singer vintage",
+        "Description": "Estupenda máquina de coser clásica 100% funcional y en perfecto estado",
+        "Price": "450€",
+        "Images": "https://cloud10.todocoleccion.online/antiguedades-tecnicas/tc/2019/05/05/13/162456630_15570558887C2F9EF5_137984529.jpg",
+        "Id": "MnSflafb1AUT1dxQtQkd",
+        "Category": "Vintage"
+    },
+    {
+        "Images": "https://as01.epimg.net/meristation/imagenes/2004/02/24/album/1077650220_650220_000001_album_normal.jpg",
+        "Price": "10€",
+        "Id": "PrK0ZysyUisaDqISSeic",
+        "Name": "Ratchet and clank 2",
+        "Description": "Segunda entrega numerada de las aventuras del Lombax favorito de todas las generaciones",
+        "Category": "PS2"
+    },
+    {
+        "Price": "50€",
+        "Id": "T1ZXNTsuo5THnrGQpED6",
+        "Name": "Póster Kingdom Hearts 3",
+        "Images": "https://image.api.playstation.com/cdn/EP0082/CUSA12025_00/OHNJ80jcQ8TDIAK7KmNQdzXswaXoxAH0.png",
+        "Category": "Entretenimiento",
+        "Description": "Póster de edición coleccionista de Kingdom Hearts 3"
+    },
+    {
+        "Id": "YmRpK6ySRYN3alKtWRyx",
+        "Images": "https://media.game.es/COVERV2/3D_L/198/198769.png",
+        "Description": "Juego imposible, he roto ya 3 mandos y voy por el cuarto. No soporto más, el precio es lo que me han costado los mandos, si la vida te parece fácil prueba con esta porquería",
+        "Category": "Entretenimiento",
+        "Price": "210€",
+        "Name": "Elden Ring"
+    },
+    {
+        "Price": "400€",
+        "Id": "bCsgTKZ5vpinBTGpakDZ",
+        "Images": "https://eloutput.com/app/uploads-eloutput.com/2020/03/PS5-316.jpg?x=480&y=375&quality=40",
+        "Description": "Consola Play Station 5",
+        "Category": "Videojuegos",
+        "Name": "PS5"
+    },
+    {
+        "Description": "Poster del fantasma de esparta",
+        "Price": "45€",
+        "Category": "Entretenimiento",
+        "Id": "hnQhZt764y4xE8eU9IEC",
+        "Name": "Póster God of War 2 editado",
+        "Images": "https://images2.alphacoders.com/827/82742.jpg"
+    },
+    {
+        "Id": "xD7cs8Z9a3piQna2vYLB",
+        "Name": "Secador de pelo profesional",
+        "Category": "Estética",
+        "Price": "100€",
+        "Images": "https://m.media-amazon.com/images/I/6160Q9ZeRtL._SY355_.jpg",
+        "Description": "Secador de pelo 1875 W profesional de iones negativos calor infrarrojo lejano 2 de velocidad y 3 portátil de calor blowdryers AC moto – Anillo Colgante jr-104 a negro"
+    }
+]
