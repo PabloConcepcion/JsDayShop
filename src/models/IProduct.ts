@@ -8,7 +8,7 @@ export default interface IProduct {
   Category: string;
 }
 
-export const emptyProduct = (): IProduct => {
+export const GetEmptyProduct = (): IProduct => {
   return {
     Id: "",
     Name: "",
